@@ -22,6 +22,7 @@ hi CursorColumn	    guibg=#000000 ctermbg=0        gui=none
 hi ColorColumn	    guibg=#262626 ctermbg=235        gui=none
 hi Directory	    guifg=#8eaa29 ctermfg=106        gui=none
 hi Folded	    guibg=#262626 ctermbg=235        guifg=#a9a1c7 ctermfg=146        gui=none
+hi FoldColumn	    guibg=bg ctermbg=235        guifg=#a9a1c7 ctermfg=146        gui=none
 hi Function	    guifg=#8eaa29 ctermfg=106        gui=none
 hi Identifier	    guifg=#8eaa29 ctermfg=106        gui=none
 hi LineNr	    guifg=#615882 ctermfg=60        guibg=#262626 ctermbg=235 gui=none
